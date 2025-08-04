@@ -3,7 +3,7 @@
 
 - 👨‍💻 Some of my codes are available here at [https://github.com/Shotagog](https://github.com/Shotagog)
 
-- 💬 Ask me about **JavaScript, React, Node, PHP, Laravel**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node**
 
 - 📫 How to reach me **shgogic@gmail.com**
 
